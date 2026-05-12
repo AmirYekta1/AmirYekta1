@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### 🔗 Portfolio Quick Access (QR Codes)
 
-| :---: | :---: | :---: |
 | ![Dezhpad Arts](QrCodesLink/Dezhpad+3DArts_QrCode.png)| ![VR XR](QrCodesLink/VR_XR_QrCode.png) <br> *Clinical VR Framework* | ![AI Docs](QrCodesLink/AI_QrCode.png) <br> *AI Multi-Agent System* |
 | ![Dezhpad Timelapse](QrCodesLink/DezhpadTimelapse_QrCode.png) <br> *30-min Dev Journey* | ![King Eldronia](QrCodesLink/KingEld_Present_QrCode.png) <br> *Clinical Presentation* | ![AI Content](QrCodesLink/AI_ContentProduction_QrCode.png) <br> *Generative Pipelines* |
 | ![Eldronia 3D](QrCodesLink/EldMing_3DModeling_QrCode.png) <br> *3D Modeling Process* | ![Eldronia UE5](QrCodesLink/EldMing_UE5_QrCode.png) <br> *UE5 Implementation* | |
