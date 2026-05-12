@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🔗 Portfolio Quick Access (QR Codes)
-| Project | QR Access | Project | QR Access |
-| :--- | :---: | :--- | :---: |
-| **Dezhpad 3D Arts** | ![Dezhpad Arts](QrCodesLink/Dezhpad+3DArts_QrCode.png) | **Dezhpad Timelapse** | ![Dezhpad Timelapse](QrCodesLink/DezhpadTimelapse_QrCode.png) |
-| **Eldronia King (3D)** | ![Eldronia 3D](QrCodesLink/EldMing_3DModeling_QrCode.png) | **Eldronia King (UE5)** | ![Eldronia UE5](QrCodesLink/EldMing_UE5_QrCode.png) |
-| **VR/XR Framework** | ![VR XR](QrCodesLink/VR_XR_QrCode.png) | **AI Architecture** | ![AI Docs](QrCodesLink/AI_QrCode.png) |
-| **AI Content Prod.** | ![AI Flux](QrCodesLink/AI_ContentProduction_QrCode.png) | **King Eldronia Presentation** | ![King Eldronia](QrCodesLink/KingEld_Present_QrCode.png) |
+| **Game Engineering** | **XR & Medical VR** | **AI & Architecture** |
+| :---: | :---: | :---: |
+| ![Dezhpad Arts](QrCodesLink/Dezhpad+3DArts_QrCode.png) <br> *Dezhpad 3D Arts* | ![VR XR](QrCodesLink/VR_XR_QrCode.png) <br> *Clinical VR Framework* | ![AI Docs](QrCodesLink/AI_QrCode.png) <br> *AI Multi-Agent System* |
+| ![Dezhpad Timelapse](QrCodesLink/DezhpadTimelapse_QrCode.png) <br> *30-min Dev Journey* | ![King Eldronia](QrCodesLink/KingEld_Present_QrCode.png) <br> *Clinical Presentation* | ![AI Content](QrCodesLink/AI_ContentProduction_QrCode.png) <br> *Generative Pipelines* |
+| ![Eldronia 3D](QrCodesLink/EldMing_3DModeling_QrCode.png) <br> *3D Modeling Process* | ![Eldronia UE5](QrCodesLink/EldMing_UE5_QrCode.png) <br> *UE5 Implementation* | |
 
