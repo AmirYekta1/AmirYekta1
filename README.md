@@ -15,38 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔗 Portfolio Quick Access
+### 🔗 Portfolio Quick Access (QR Codes)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="QrCodesLink/Dezhpad+3DArts_QrCode.png" width="180">
-    </td>
-    <td align="center">
-      <img src="QrCodesLink/VR_XR_QrCode.png" width="180">
-    </td>
-    <td align="center">
-      <img src="QrCodesLink/AI_QrCode.png" width="180">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="QrCodesLink/DezhpadTimelapse_QrCode.png" width="180">
-    </td>
-    <td align="center">
-      <img src="QrCodesLink/KingEld_Present_QrCode.png" width="180">
-    </td>
-    <td align="center">
-      <img src="QrCodesLink/AI_ContentProduction_QrCode.png" width="180">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="QrCodesLink/EldMing_3DModeling_QrCode.png" width="180">
-    </td>
-    <td align="center">
-      <img src="QrCodesLink/EldMing_UE5_QrCode.png" width="180">
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
+| **Game Engineering** | **XR & Medical VR** | **AI & Architecture** |
+| :---: | :---: | :---: |
+| !(QrCodesLink/Dezhpad+3DArts_QrCode.png)| !(QrCodesLink/VR_XR_QrCode.png) | !(QrCodesLink/AI_QrCode.png) |
+| ![Dezhpad Timelapse](QrCodesLink/DezhpadTimelapse_QrCode.png) <br> *30-min Dev Journey* | ![King Eldronia](QrCodesLink/KingEld_Present_QrCode.png) <br> *Clinical Presentation* | ![AI Content](QrCodesLink/AI_ContentProduction_QrCode.png) <br> *Generative Pipelines* |
+| ![Eldronia 3D](QrCodesLink/EldMing_3DModeling_QrCode.png) <br> *3D Modeling Process* | ![Eldronia UE5](QrCodesLink/EldMing_UE5_QrCode.png) <br> *UE5 Implementation* | |
