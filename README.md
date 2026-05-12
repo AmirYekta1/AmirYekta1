@@ -32,9 +32,9 @@ However, you can verify my engineering process, architectural depth, and perform
 #### 📺 The Development Journey (Time-lapse Validation)
 I have compiled a 30-minute time-lapse documenting the entire lifecycle: from high-poly sculpting in ZBrush to low-poly optimization in Blender, texturing in Substance Painter, and full engine implementation/shader coding in Unity.
 
-| **Scan to Watch the 30-min Process** | **Direct Download (Secure)** |
+<!--| **Scan to Watch the 30-min Process** | **Direct Download (Secure)** |
 | :---: | :---: |
-<!--| ![Dezhpad QR Code]([Link]) | [Download Time-lapse on MEGA]([ Link]) |-->
+| ![Dezhpad QR Code]([Link]) | [Download Time-lapse on MEGA]([ Link]) |-->
 
 ---
 
@@ -46,9 +46,9 @@ I have compiled a 30-minute time-lapse documenting the entire lifecycle: from hi
 #### 🎥 Feature Showreel
 Watch the spatial clinical logic in action, featuring anatomical shader optimization for Meta Quest 3 standalone hardware.
 
-| **Scan for VR Showreel** | **Architecture Document** |
+<!--| **Scan for VR Showreel** | **Architecture Document** |
 | :---: | :---: |
-<!--| ![VR QR Code]([ Link ]) | [View Technical PDF on MEGA]([ Link]) |-->
+| ![VR QR Code]([ Link ]) | [View Technical PDF on MEGA]([ Link]) |-->
 
 ---
 
@@ -60,9 +60,9 @@ Watch the spatial clinical logic in action, featuring anatomical shader optimiza
 #### 📄 Conceptual Framework
 This project is an AI-R&D venture, not a public codebase. Verify the full agent-dependency map and mathematical foundation in the central document.
 
-| **Scan for AI Architecture** | **Central Hub QR** |
+<!--| **Scan for AI Architecture** | **Central Hub QR** |
 | :---: | :---: |
-<!--| ![AI Architecture QR]([ Link]) | ![Portfolio Hub QR]([ Link]) |-->
+| ![AI Architecture QR]([ Link]) | ![Portfolio Hub QR]([ Link]) |-->
 
 ## 🛠️ Technical Skill Stack
 
