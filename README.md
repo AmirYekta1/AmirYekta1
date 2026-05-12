@@ -16,9 +16,50 @@ Here are some ideas to get you started:
 -->
 
 ### 🔗 Portfolio Quick Access (QR Codes)
-| **Game Engineering** | **XR & Medical VR** | **AI & Architecture** |
-| :---: | :---: | :---: |
-| ![Dezhpad Arts](QrCodesLink/Dezhpad+3DArts_QrCode.png) <br> *Dezhpad 3D Arts* | ![VR XR](QrCodesLink/VR_XR_QrCode.png) <br> *Clinical VR Framework* | ![AI Docs](QrCodesLink/AI_QrCode.png) <br> *AI Multi-Agent System* |
-| ![Dezhpad Timelapse](QrCodesLink/DezhpadTimelapse_QrCode.png) <br> *30-min Dev Journey* | ![King Eldronia](QrCodesLink/KingEld_Present_QrCode.png) <br> *Clinical Presentation* | ![AI Content](QrCodesLink/AI_ContentProduction_QrCode.png) <br> *Generative Pipelines* |
-| ![Eldronia 3D](QrCodesLink/EldMing_3DModeling_QrCode.png) <br> *3D Modeling Process* | ![Eldronia UE5](QrCodesLink/EldMing_UE5_QrCode.png) <br> *UE5 Implementation* | |
 
+<table>
+  <tr>
+    <td align="center"><b>Game Engineering</b></td>
+    <td align="center"><b>XR & Medical VR</b></td>
+    <td align="center"><b>AI & Architecture</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="QrCodesLink/Dezhpad+3DArts_QrCode.png" width="180"><br>
+      <sub>Dezhpad 3D Arts</sub>
+    </td>
+    <td align="center">
+      <img src="QrCodesLink/VR_XR_QrCode.png" width="180"><br>
+      <sub>Clinical VR Framework</sub>
+    </td>
+    <td align="center">
+      <img src="QrCodesLink/AI_QrCode.png" width="180"><br>
+      <sub>AI Multi-Agent System</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="QrCodesLink/DezhpadTimelapse_QrCode.png" width="180"><br>
+      <sub>30-min Dev Journey</sub>
+    </td>
+    <td align="center">
+      <img src="QrCodesLink/KingEld_Present_QrCode.png" width="180"><br>
+      <sub>Clinical Presentation</sub>
+    </td>
+    <td align="center">
+      <img src="QrCodesLink/AI_ContentProduction_QrCode.png" width="180"><br>
+      <sub>Generative Pipelines</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="QrCodesLink/EldMing_3DModeling_QrCode.png" width="180"><br>
+      <sub>3D Modeling Process</sub>
+    </td>
+    <td align="center">
+      <img src="QrCodesLink/EldMing_UE5_QrCode.png" width="180"><br>
+      <sub>UE5 Implementation</sub>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
