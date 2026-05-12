@@ -34,7 +34,7 @@ I have compiled a 30-minute time-lapse documenting the entire lifecycle: from hi
 
 | **Scan to Watch the 30-min Process** | **Direct Download (Secure)** |
 | :---: | :---: |
-| ![Dezhpad QR Code]([Link]) | [Download Time-lapse on MEGA]([ Link]) |
+<!--| ![Dezhpad QR Code]([Link]) | [Download Time-lapse on MEGA]([ Link]) |-->
 
 ---
 
@@ -48,7 +48,7 @@ Watch the spatial clinical logic in action, featuring anatomical shader optimiza
 
 | **Scan for VR Showreel** | **Architecture Document** |
 | :---: | :---: |
-| ![VR QR Code]([ Link ]) | [View Technical PDF on MEGA]([ Link]) |
+<!--| ![VR QR Code]([ Link ]) | [View Technical PDF on MEGA]([ Link]) |-->
 
 ---
 
@@ -62,7 +62,7 @@ This project is an AI-R&D venture, not a public codebase. Verify the full agent-
 
 | **Scan for AI Architecture** | **Central Hub QR** |
 | :---: | :---: |
-| ![AI Architecture QR]([ Link]) | ![Portfolio Hub QR]([ Link]) |
+<!--| ![AI Architecture QR]([ Link]) | ![Portfolio Hub QR]([ Link]) |-->
 
 ## 🛠️ Technical Skill Stack
 
